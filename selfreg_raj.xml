@@ -14,7 +14,7 @@
 					<section id="selfregsectionouter" label="Details">
 						<sectionrow id="selfreg_section_row1">
 							<sectioncol id="selfreg_section_row1_col1">
-								<section border="true" description="Welcome to user registration with IBM. Please complete the information below to gain access to the system. You will be notified by e-mail when your registration has been processed." id="main_desc"/>
+								<section border="true" description="Welcome to user registration with IBM Maximo. Please complete the information below to gain access to the system. You will be notified by e-mail when your registration has been processed." id="main_desc"/>
 							</sectioncol>
 						</sectionrow>
 						<sectionrow id="selfreg_section_row2">
@@ -33,7 +33,7 @@
 						</sectionrow>
 						<sectionrow id="selfreg_section_row3">
 							<sectioncol id="selfreg_section_row3_col1">
-								<section border="true" description="To facilitate your registration with Maximo, please provide as much of the following information as possible so we can register you to use the system appropriately and contact you if we have any questions." id="main_grid2" label="Personal Information">
+								<section border="true" description="To facilitate your registration with IBM Maximo, please provide as much of the following information as possible so we can register you to use the system appropriately and contact you if we have any questions." id="main_grid2" label="Personal Information">
 									<textbox dataattribute="supervisor" id="main_grid12_1"/>
 									<textbox dataattribute="siteid" id="main_grid2_2" lookup="site"/>
 									<textbox dataattribute="defaultstoreloc" id="main_grid2_3" lookup="storeroom"/>
